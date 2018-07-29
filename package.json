@@ -78,6 +78,5 @@
     "react-dom": "15.6.1",
     "react-hot-loader": "3.0.0-beta.7"
   },
-  "homepage": "https://github.com/lovefishs/webpack-demos#readme",
   "main": "index.js"
 }
